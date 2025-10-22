@@ -40,7 +40,7 @@ This project leverages publicly available DFS-NYS complaint and premium data (20
 ---
 
 ## **Data Source**
-- **Source:** New York State Department of Financial Services (DFS-NYS) Open Data Platform [here link of dfs data page]  
+- **Source:** New York State Department of Financial Services (DFS-NYS) Open Data Platform [[Automobile Insurance Company Complaint Rankings CSV](https://github.com/YasinSyed-2099/Automobile-Insurance-Complaints-Rankings/blob/main/Automobile_Insurance_Company_Complaint_Rankings__Beginning_2009_To_2023.csv)]
 - Dataset covers 2009–2023 and includes complaints and premiums for multiple insurers.  
 - Attributes include: NAIC, Company Name, Ratio, Upheld Complaints, Question of Fact Complaints, Not Upheld Complaints, Total Complaints, Premiums Written, Rank, Filing Year.  
 - All data used is publicly available; this analysis is independent.
