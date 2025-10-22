@@ -1,6 +1,7 @@
 -- CREATE DATABASE 
 CREATE DATABASE Automobile_insurance_complaints_rankings;
 
+-- CREATIG TABLE TO IMPORT 
 CREATE TABLE `AMTCR_table` (
   `NAIC` int(11) NOT NULL,
   `Company_Name` varchar(58) NOT NULL,
@@ -14,13 +15,15 @@ CREATE TABLE `AMTCR_table` (
   `Filing_Year` int(11) NOT NULL
   )
   ;
-  
 SELECT * FROM AMTCR_table;
-  
+
+-- CHECKING COUNT OF TABLE
 SELECT COUNT(*) FROM amtcr_table;
 
+-- DAtA DESCRIBE
 DESCRIBE amtcr_table;
 
+-- Top Companies by Maximum Premiums and Years in Market
 SELECT company_name,
 MAX(premiums_written) AS maximum_premiums_written,
 count(Filing_Year) years_in_market
@@ -29,7 +32,8 @@ GROUP BY company_name
 ORDER BY maximum_premiums_written DESC ,  years_in_market DESC
 ;
 
-CREATE TABLE top5_companies AS
+-- CREATING TABLE OF TOP 5 Companies
+CREATE TABLE Selected_5_companies AS
 SELECT *
 FROM amtcr_table
 WHERE Company_Name IN (
@@ -39,13 +43,16 @@ WHERE Company_Name IN (
     'Allstate Insurance Company',
     'GEICO Indemnity Company'
 );
-
-SELECT * FROM top5_companies;
-
-SELECT count(*) FROM top5_companies;
+SELECT * FROM selected_5_companies;
+SELECT COUNT(*) FROM selected_5_companies;
 
 
-
-
+-- Extracting allstate insurance company
+CREATE TABLE Allstate_insurance_company AS
+SELECT * 
+FROM amtcr_table
+WHERE Company_Name IN ('Allstate Insurance Company')
+;
+SELECT * FROM allstate_insurance_company;
 
 
