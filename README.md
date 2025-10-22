@@ -72,7 +72,8 @@ This project leverages publicly available DFS-NYS complaint and premium data (20
 - Show complaint distribution by type (Upheld, Not Upheld, Question of Fact) using visualizations for better understanding of issues.  
 - Present tabular details of each company including ratio, total complaints, and their breakdown to support data-driven analysis.
 
-[dashboard png]
+![Power BI Dashboard](https://github.com/YasinSyed-2099/Automobile-Insurance-Complaints-Rankings/raw/main/Dashboard%20PNG.png)
+
 
 ---
 
