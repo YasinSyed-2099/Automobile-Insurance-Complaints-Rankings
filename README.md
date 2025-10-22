@@ -172,9 +172,9 @@ These provide a quick snapshot of company performance and complaint volumes acro
 ---
 
 ## **Contact**
-- **Email:** yourname@example.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **Email:** yasinsyedmadharraja@gmail.com  
+- **LinkedIn:** [linkedin.com/in/yasin-syedmadharraja](https://www.linkedin.com/in/yasin-syedmadharraja)  
+- **GitHub:** [github.com/YasinSyed-2099](https://github.com/YasinSyed-2099)
 
 ---
 
