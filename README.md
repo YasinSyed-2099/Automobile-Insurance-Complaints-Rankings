@@ -1,5 +1,20 @@
 # Automobile-Insurance-Complaints-Rankings
 
+## Table of Contents
+- [Project Title](#project-title)
+- [Short Description](#short-description)
+- [Problem Statement](#problem-statement)
+- [Solution](#solution)
+- [Data Source](#data-source)
+- [Project Workflow](#project-workflow)
+- [Features & Highlights](#features--highlights-allstate-diagnostic-report)
+- [Data Overview & Trend Analysis](#data-overview--trend-analysis)
+- [Walkthrough of Key Visuals](#walkthrough-of-key-visuals)
+- [Key Insights](#key-insights)
+- [Recommendation](#recommendation)
+- [Contact](#contact)
+- [Acknowledgement](#acknowledgement)
+
 
 # **Project Title**
 **Automobile Insurance Complaint Rankings**
