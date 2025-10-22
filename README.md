@@ -26,7 +26,7 @@ This project demonstrates practical skills in SQL, data preparation, and Power B
 ---
 
 ## **Short Description**
-This project leverages publicly available DFS-NYS complaint and premium data (2009–2023) to build a comprehensive diagnostic report and interactive dashboard.  
+This project leverages publicly available DFS-NY complaint and premium data (2009–2023) to build a comprehensive diagnostic report and interactive dashboard.  
 
 - SQL was used to extract and rank insurers by total premiums written, selecting the top five companies for focused analysis.  
 - Power BI was used to create visualizations showing complaint distribution, trends over time, and premium progression for Allstate Insurance Company.  
