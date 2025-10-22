@@ -1,0 +1,73 @@
+NAIC,Company_Name,Ratio,Upheld_Complaints,Question_of_Fact_Complaints,Not_Upheld_Complaints,Total_Complaints,Premiums_Written(in Millions),Rank,Filing_Year
+35882,GEICO General Insurance Company,0.0099,28,96,298,422,2841.06,56,2023
+22055,GEICO Indemnity Company,0.0104,11,41,160,212,1057.841,58,2023
+25178,State Farm Mutual Automobile Insurance Company,0.0251,57,104,269,430,2273.206,73,2023
+29688,Allstate Fire and Casualty Insurance Company,0.0381,56,61,167,284,1469.28,83,2023
+19232,Allstate Insurance Company,0.0516,24,22,44,90,464.774,96,2023
+35882,GEICO General Insurance Company,0,0,2,10,12,2716.298,1,2022
+22055,GEICO Indemnity Company,0.0111,12,40,163,215,1081.303,61,2022
+25178,State Farm Mutual Automobile Insurance Company,0.0199,38,105,302,445,1906.473,72,2022
+29688,Allstate Fire and Casualty Insurance Company,0.0235,31,62,159,252,1319.904,76,2022
+19232,Allstate Insurance Company,0.067,32,26,69,127,477.637,100,2022
+35882,GEICO General Insurance Company,0,0,2,4,6,2620.527,1,2021
+22055,GEICO Indemnity Company,0.01,11,50,143,204,1098.714,79,2021
+25178,State Farm Mutual Automobile Insurance Company,0.0285,48,109,200,357,1681.42,91,2021
+29688,Allstate Fire and Casualty Insurance Company,0.03,36,44,118,198,1199.057,92,2021
+19232,Allstate Insurance Company,0.0705,35,19,66,120,496.148,109,2021
+22055,GEICO Indemnity Company,0.008,9,32,159,200,1127.107,65,2020
+35882,GEICO General Insurance Company,0.0189,49,109,344,502,2588.248,78,2020
+29688,Allstate Fire and Casualty Insurance Company,0.0232,26,59,131,216,1122.431,83,2020
+25178,State Farm Mutual Automobile Insurance Company,0.0376,60,113,191,364,1597.288,93,2020
+19232,Allstate Insurance Company,0.0989,53,28,87,168,535.815,113,2020
+35882,GEICO General Insurance Company,0,5,12,45,62,2654.76,76,2019
+22055,GEICO Indemnity Company,0.01,6,57,137,200,1177.2,78,2019
+25178,State Farm Mutual Automobile Insurance Company,0.03,51,119,145,315,1595.57,100,2019
+29688,Allstate Fire and Casualty Insurance Company,0.04,39,66,135,240,1047.76,104,2019
+19232,Allstate Insurance Company,0.16,95,44,77,216,587.17,130,2019
+22055,GEICO Indemnity Company,0.003,3,89,181,273,1109.3,90,2018
+35882,GEICO General Insurance Company,0.01,20,200,260,480,2567.3,93,2018
+29688,Allstate Fire and Casualty Insurance Company,0.01,12,63,124,199,921.73,98,2018
+25178,State Farm Mutual Automobile Insurance Company,0.02,26,88,196,310,1591.9,106,2018
+19232,Allstate Insurance Company,0.08,49,61,84,194,645.64,126,2018
+29688,Allstate Fire and Casualty Insurance Company,0.01,6,35,122,163,794.25,87,2017
+35882,GEICO General Insurance Company,0.01,29,161,277,467,2390.97,93,2017
+22055,GEICO Indemnity Company,0.01,13,88,158,259,1023.55,95,2017
+25178,State Farm Mutual Automobile Insurance Company,0.02,35,85,151,271,1531.31,104,2017
+19232,Allstate Insurance Company,0.07,48,91,150,289,707.69,125,2017
+22055,GEICO Indemnity Company,0.0072,7,96,157,260,965.925,91,2016
+35882,GEICO General Insurance Company,0.0109,24,209,270,503,2199.89,96,2016
+29688,Allstate Fire and Casualty Insurance Company,0.0196,13,40,87,140,663.974,106,2016
+19232,Allstate Insurance Company,0.0308,23,91,123,237,747.431,115,2016
+25178,State Farm Mutual Automobile Insurance Company,0.0314,45,46,130,221,1434.015,116,2016
+22055,GEICO Indemnity Company,0.0072,7,96,157,260,965.925,91,2015
+35882,GEICO General Insurance Company,0.0109,24,209,270,503,2199.89,96,2015
+29688,Allstate Fire and Casualty Insurance Company,0.0196,13,40,87,140,663.974,106,2015
+19232,Allstate Insurance Company,0.0308,23,91,123,237,747.431,115,2015
+25178,State Farm Mutual Automobile Insurance Company,0.0314,45,46,130,221,1434.015,116,2015
+22055,GEICO Indemnity Company,0.012,10,110,166,286,830.018,75,2014
+35882,GEICO General Insurance Company,0.0228,43,255,333,631,1882.586,80,2014
+29688,Allstate Fire and Casualty Insurance Company,0.0231,8,8,30,46,346.324,81,2014
+25178,State Farm Mutual Automobile Insurance Company,0.0427,54,87,187,328,1264.263,94,2014
+19232,Allstate Insurance Company,0.0878,76,136,251,463,865.759,116,2014
+22055,GEICO Indemnity Company,0.0052,4,71,110,185,770.835,86,2013
+35882,GEICO General Insurance Company,0.0103,18,204,269,491,1751.86,88,2013
+29688,Allstate Fire and Casualty Insurance Company,0.0162,3,2,4,9,184.9,93,2013
+25178,State Farm Mutual Automobile Insurance Company,0.025,30,64,99,193,1200.401,100,2013
+19232,Allstate Insurance Company,0.0788,75,100,188,363,952.202,126,2013
+35882,GEICO General Insurance Company,0.0076,12,184,258,454,1570.816,84,2012
+22055,GEICO Indemnity Company,0.0114,8,83,126,217,702.861,90,2012
+29688,Allstate Fire and Casualty Insurance Company,0.0194,1,1,6,8,51.549,98,2012
+25178,State Farm Mutual Automobile Insurance Company,0.0244,28,92,133,253,1149.201,102,2012
+19232,Allstate Insurance Company,0.1107,116,203,297,616,1047.68,137,2012
+35882,GEICO General Insurance Company,0.0107,15,189,226,430,1397.051,72,2011
+22055,GEICO Indemnity Company,0.0125,8,72,109,189,640.146,74,2011
+25178,State Farm Mutual Automobile Insurance Company,0.0248,27,131,219,377,1087.724,79,2011
+19232,Allstate Insurance Company,0.0861,97,251,312,660,1127.18,121,2011
+35882,GEICO General Insurance Company,0.0156,20,180,238,438,1284.558,66,2010
+22055,GEICO Indemnity Company,0.0227,14,132,166,312,618.005,73,2010
+25178,State Farm Mutual Automobile Insurance Company,0.0361,37,177,212,426,1024.953,80,2010
+19232,Allstate Insurance Company,0.1423,170,698,482,1350,1194.346,130,2010
+35882,GEICO General Insurance Company,0.0122,15,211,222,448,1227.732,68,2009
+22055,GEICO Indemnity Company,0.0198,12,131,205,348,605.301,71,2009
+25178,State Farm Mutual Automobile Insurance Company,0.0623,60,298,252,610,962.945,94,2009
+19232,Allstate Insurance Company,0.1418,180,318,525,1023,1269.438,119,2009
