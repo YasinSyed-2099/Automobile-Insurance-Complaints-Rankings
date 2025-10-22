@@ -179,5 +179,5 @@ These provide a quick snapshot of company performance and complaint volumes acro
 ---
 
 ## **Acknowledgement**
-This project was completed as part of my internship assignment, utilizing publicly available DFS-NYS data.  
+This project was completed as part of my internship , utilizing publicly available DFS-NYS data.  
 All analyses, visualizations, and interpretations are my own work.
