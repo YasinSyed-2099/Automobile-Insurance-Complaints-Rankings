@@ -65,7 +65,7 @@ This project leverages publicly available DFS-NYS complaint and premium data (20
 ## **Project Workflow**
 - Imported raw data into SQL database for cleaning, filtering, and ranking. [[SQL File](https://github.com/YasinSyed-2099/Automobile-Insurance-Complaints-Rankings/blob/main/Automobile_insurance_complaints_rankings.sql)]
 - Created top five company table and extracted Allstate data.  [[Selected 5 Companies CSV](https://github.com/YasinSyed-2099/Automobile-Insurance-Complaints-Rankings/blob/main/Selected_companies_5.csv)]
-- Exported SQL tables to Excel. [[Allstate Insurance Company](https://github.com/YasinSyed-2099/Automobile-Insurance-Complaints-Rankings/blob/main/Allstate%20Insurance%20Company.csv)]
+- Exported SQL tables to Excel. [[Allstate Insurance Company CSV](https://github.com/YasinSyed-2099/Automobile-Insurance-Complaints-Rankings/blob/main/Allstate%20Insurance%20Company.csv)]
 - Imported Excel data into Power BI for dashboard building.  
 - Developed DAX measures for KPIs like Complaint Ratio and Premiums Written.  
 - Built interactive visuals to show trends, distributions, and insights.[[Power BI Dashboard File (.pbix)](https://github.com/YasinSyed-2099/Automobile-Insurance-Complaints-Rankings/blob/main/Automobile_Insurance_Complaint_Rankings_PowerBI.pbix)]
